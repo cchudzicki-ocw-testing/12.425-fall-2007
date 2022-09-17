@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about prerequisites, further background on the course, goals, learning objectives,
+  textbooks and class handouts, class participation, homework, and grades.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

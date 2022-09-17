@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section gives the summaries of lecture sessions, written by a student.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Activities
